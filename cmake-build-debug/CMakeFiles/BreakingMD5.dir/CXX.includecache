@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Universiteit/GIT/BreakingMD5/Reduction.cpp
+cstring
+-
+Reduction.h
+C:/Universiteit/GIT/BreakingMD5/Reduction.h
+
+C:/Universiteit/GIT/BreakingMD5/Reduction.h
+string
+-
+
+C:/Universiteit/GIT/BreakingMD5/main.cpp
+iostream
+-
+md5.h
+C:/Universiteit/GIT/BreakingMD5/md5.h
+fstream
+-
+ctime
+-
+unordered_map
+-
+list
+-
+Reduction.h
+C:/Universiteit/GIT/BreakingMD5/Reduction.h
+
+C:/Universiteit/GIT/BreakingMD5/md5.cpp
+md5.h
+C:/Universiteit/GIT/BreakingMD5/md5.h
+cstdio
+-
+
+C:/Universiteit/GIT/BreakingMD5/md5.h
+cstring
+-
+iostream
+-
+

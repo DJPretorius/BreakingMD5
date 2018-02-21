@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="crypto" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://C:/Universiteit/GIT/C++Libraries/openssl/crypto/md5" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://C:/Universiteit/GIT/C++Libraries/openssl/crypto/md5" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
